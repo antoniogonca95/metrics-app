@@ -1,6 +1,6 @@
 # metrics-app
 
-This simple app was developed with the purpose of storing metrics for an hour and returning the sum stored for a metric
+This simple app was developed with the purpose of storing values for metrics for an hour and returning the sum of the values stored.
 
 ## Endpoints 
 - [Store metric - POST /metrics/{key}](#store-value-for-a-metric)
